@@ -17,6 +17,7 @@ Software Engineer, Cuberon Labs.
 
 * Second Employee of an early stage startup. 
 * Worked on developing the Data Processing Pipeline
+$ Worked on anomaly detection models 
 
 
 ## Skills
