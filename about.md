@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I am Vinodh Krishnan. You seemed to have reached my page (by mistake of course. Perhaps you meant to go to http://vine.co and you've had one drink too many?). Here are my details. Please hire me. 
+Hi, I am Vinodh Krishnan. You seemed to have reached my page (by mistake of course. Perhaps you meant to go to [Vine](http://vine.co) and you've had one drink too many?). Anyways here are my details. Please hire me. 
 
 ## Education
 
