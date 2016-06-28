@@ -17,6 +17,8 @@ Software Engineer, Cuberon Labs.
 
 * Second Employee of an early stage startup. 
 * Worked on developing the Data Processing Pipeline
+
+
 ## Skills
 
 * Python, ElasticSearch and Mongo are my goto tools. Fairly decent in Java and SQL. 
